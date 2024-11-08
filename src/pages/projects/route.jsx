@@ -11,7 +11,7 @@ import GitLogo from "@/assets/githublogo.png"
 import crudProject from "@/assets/crud_project.png"
 
 
-const route = () => {
+const Route = () => {
   return (
     <div className='bg-neutral-950 flex flex-col items-center'>
            <p className='text-[26px] lg:text-[32px] text-[#ffffff] font-[500]'>Projects</p>
@@ -276,4 +276,4 @@ const route = () => {
   )
 }
 
-export default route
+export default Route
