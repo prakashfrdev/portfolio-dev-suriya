@@ -4,7 +4,7 @@ import Image from 'next/image';
 import HtmlLogo from "@/assets/html-5.png"
 import CssLogo from "@/assets/css-3.png"
 import TailwindLogo from "@/assets/tailwindLogo.png"
-import javascriptLogo from "@/assets/javascriptLogo.png"
+import javascriptLogo from "@/assets/javascriptlogo.png"
 import jqueryLogo from "@/assets/jquery logo.png"
 import ReactLogo from "@/assets/reactlogo.png"
 import NextLogo from "@/assets/nextlogo.png"
